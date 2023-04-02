@@ -1,0 +1,7 @@
+Lankjutkan.. ini udah oke banget analisa nya, yang erornya bisa liat2 di stackoverflow atau chatgpt kalau emang butuh referensi code
+fungsi fungsi algoritma cleaning data yang udah dibuat mulai dicicil ke mini apps swaggernya yahh.
+
+cek di file swag_review.py yahh masukannya mas
+
+Review akhir:
+analisis nya udah oke, tinggal latih lagi penulisan code python nya ya. semangat!
